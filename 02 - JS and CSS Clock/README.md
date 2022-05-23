@@ -1,6 +1,6 @@
 # 02 - JS and CSS Clock
 
-![This is an image](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/01%20-%20JavaScript%20Drum%20Kit/cover.png)
+![This is an image](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/02%20-%20JS%20and%20CSS%20Clock/screenshot.png)
 
 What I used and learned in this project;
 
