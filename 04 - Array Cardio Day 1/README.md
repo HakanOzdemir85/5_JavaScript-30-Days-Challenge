@@ -6,8 +6,8 @@
 
 What I used and learned in this project;
 
-- 
-- 
-- 
-- 
+- console.table
+- arrow function
+- filter method
+- shortly usage way of return
 - 
