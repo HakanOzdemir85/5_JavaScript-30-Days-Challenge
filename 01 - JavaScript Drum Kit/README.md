@@ -1,8 +1,5 @@
 # 01 - JavaScript Drum Kit
 
-[Demo Link](https://hakanozdemir85.github.io/5_JavaScript-30-Days-Challenge-main/01%20-%20JavaScript%20Drum%20Kit/)
-
-
 ![This is an image](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/01%20-%20JavaScript%20Drum%20Kit/cover.png)
 
 What I learned in this project;
