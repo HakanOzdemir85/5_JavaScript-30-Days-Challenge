@@ -1,6 +1,6 @@
 # 04 - Array Cardio Day 1
 
-[Demo Link](https:/hakanozdemir85.github.io/5_JavaScript-30-Days-Challenge-main/03%20-%20Playing%20with%20CSS%20Variables%20and%20JS)
+[Demo Link](https://hakanozdemir85.github.io/5_JavaScript-30-Days-Challenge-main/03%20-%Array%20Cardio%20Day_1/)
 
 ![This is an image](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/04%20-%20Array%20Cardio%20Day%201/screenshot1.png)
 ![This is an image](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/04%20-%20Array%20Cardio%20Day%201/screenshot2.png)
