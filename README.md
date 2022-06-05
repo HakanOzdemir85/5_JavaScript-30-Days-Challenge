@@ -10,7 +10,7 @@ The projects that I developed; <br>
 6.  [Ajax Type Ahead](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/06%20-%20Ajax%20Type%20Ahead) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/06%20-%20Ajax%20Type%20Ahead/index.html)
 7.  [Array Cardio Day 2](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/07%20-%20Array%20Cardio%20Day%202) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/07%20-%20Array%20Cardio%20Day%202/index.html)
 8.  [Fun with HTML5 Canvas](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
-9.  [Dev Tools Domination](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/09%20-%20Dev%20Tools%20Domination/READme.md) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/09%20-%20Dev%20Tools%20Domination/index.html)
-
+9.  [Dev Tools Domination](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/09%20-%20Dev%20Tools%20Domination) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/09%20-%20Dev%20Tools%20Domination/index.html)
+10.  [Hold Shift and Check Checkboxes](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
 
 
