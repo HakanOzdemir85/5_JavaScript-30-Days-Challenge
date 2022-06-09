@@ -12,5 +12,5 @@ The projects that I developed; <br>
 8.  [Fun with HTML5 Canvas](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
 9.  [Dev Tools Domination](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/09%20-%20Dev%20Tools%20Domination) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/09%20-%20Dev%20Tools%20Domination/index.html)
 10.  [Hold Shift and Check Checkboxes](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
-
+11.  [Custom Video Player](https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/tree/main/11%20-%20Custom%20Video%20Player) / [Demo Link](https://htmlpreview.github.io/?https://github.com/HakanOzdemir85/5_JavaScript-30-Days-Challenge/blob/main/11%20-%20Custom%20Video%20Player/index.html)
 
